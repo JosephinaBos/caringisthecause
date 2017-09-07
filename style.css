@@ -1,0 +1,25 @@
+body {
+    background-color: #ac82ac;
+}
+
+.header {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+h1 {
+    margin: 100px 0px 50px 0px;
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.video-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+}
